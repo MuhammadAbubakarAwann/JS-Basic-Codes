@@ -1,0 +1,16 @@
+{
+    "countries" : [
+        "Pakistan",
+        "India",
+        "China",
+        "USA"
+    ],
+    "Continents" : [
+        "Africa",
+        "Asia",
+        "Euroupe",
+        "South America",
+        "North America",
+        "Australia"
+    ]
+}
